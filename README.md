@@ -2,7 +2,7 @@
 
 > A Robot Dog Kit for Raspberry Pi.
 
-<img src='assets/icon.png' width='50%'/>
+<img src='software/client/Picture/dog_calibration.png' width='50%'/>
 
 ### Connection Board Version
 
