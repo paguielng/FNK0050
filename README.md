@@ -40,7 +40,7 @@
 
 > If you meet any difficulties, please contact our support team for help.
 
-**Manually download in browser**
+* **Setup tutorial**
 
 	Click the link below "Low Orbit " website, to get a full tutorial of the entire setup.
 	
